@@ -1,0 +1,136 @@
+.contain{font-family:sans-serif;
+	display: flex;
+	flex-direction:column;
+	align-items: center;
+	margin-top:200px;
+	}
+.div1{border-color:rgb(224, 226, 229);
+	width: 500px;
+}
+
+.div2{display:flex;
+	flex-direction: row;
+	align-items:center;
+	border-style:none;
+	box-shadow: 0px 1px 1px 1px rgb(224, 226, 229);
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+	width:450px;
+	height:50px;}/*this div is used with icon and (Sing in with Google)*/
+
+
+
+.div3{font-size:15px;
+	color:rgb(119, 126, 132);}
+
+.div4 h3{display:flex;
+	justify-content:center;
+	font-weight:normal;}
+
+.div4 h2{display: flex;
+	justify-content:center;
+	font-weight:normal;}
+
+
+.div6 a{text-decoration:none;
+	color:rgb(85, 100, 178)}
+
+.div7 a{text-decoration:none;}
+
+.div7 a{font-family:sans-serif;
+	color:rgb(15, 18, 20)}
+
+.div7 h2{font-family:sans-serif;}
+
+.div{border-style:none;
+	width:450px;/*this class will bring whole content from 
+	(N) to paragragh*/
+	height:500px;
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	box-shadow: 0px 1px 1px 2px rgb(224, 226, 229); 
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+}/**this div or class is use to apply border and to adding some font**/
+
+.div i{font-size:10px;
+	color:rgb(119, 126, 132); }
+
+.div9{display:flex;}
+
+.div12{display: flex;
+	align-items: center;
+}
+.div13{background-color:rgb(33, 140, 29);
+	display:flex;align-items: center;
+	margin-left:25px;
+	margin-bottom:10px;
+	width:45px;
+	height:45px;
+	border-radius:50px;
+	color: rgb(225, 230, 232)
+	}
+
+.div13 h2{margin-left:15px;}
+
+.div14{background-color:rgb(126, 129, 130);
+	display:flex;align-items: center;
+	margin-left:25px;
+	margin-bottom:10px;
+	width:45px;
+	height:45px;
+	border-radius:50px;
+	color:rgb(225, 230, 232);
+	}
+
+.div14 h2{margin-left:15px;}
+
+.div16{display: flex;
+	align-items:center;}
+
+.div16 img{width:60px;
+	margin-left:20px;}
+
+
+
+.userid1{font-family:sans-serif;
+	color:rgb(15, 18, 20);
+	margin-left:20px;}
+
+.userid2{font-family: sans-serif;
+	color:rgb(15, 18, 20);
+	margin-left:20px;}	
+
+
+.d_gmail{font-size:12px;
+	color:rgb(119, 126, 132); }
+.d_gmail a{color:rgb(85, 100, 178);}
+
+.d_gmail{display: flex;
+	justify-content:center;}
+
+.icon{width:15px;
+	height:15px;
+	margin-right:10px;
+	margin-left:10px;}
+
+.option_list a{text-decoration:none;
+	color:rgb(119, 126, 132);
+	margin-right:30px;
+	}
+
+.option_list ul{list-style-type:none;
+	display:flex;
+	flex-direction:row;}
+
+.option{background-color:white;
+		border:none;
+}
+
+.footer{display: flex;
+	justify-content:space-around;
+	margin-top:25px;
+	font-size:15px;
+}
+
